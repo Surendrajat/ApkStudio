@@ -1,4 +1,5 @@
-
+![#aa0000](http://via.placeholder.com/600x50/aa0000/ffffff?text=This%20fork%20is%20outdated!!!%20)
+[![#aa0000](http://via.placeholder.com/600x50/00aa00/ffffff?text=Click%20me%20to%20get%20latest%20APK%20Studio)](https://github.com/vaibhavpandeyvpz/apkstudio)
 # APK Studio [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9709de5012824c36b54fda9c2c6390bf)](https://app.codacy.com/app/Surendrajat/apkstudio?utm_source=github.com&utm_medium=referral&utm_content=Surendrajat/apkstudio&utm_campaign=badger) [![Build Status(Linux)](https://travis-ci.org/Surendrajat/ApkStudio.svg)](https://travis-ci.org/Surendrajat/ApkStudio) [![Build status(Windows)](https://ci.appveyor.com/api/projects/status/mnr254lm0mlshmfb?svg=true)](https://ci.appveyor.com/project/Surendrajat/apkstudio) [![Join the chat at https://gitter.im/apk-studio/ideas](https://badges.gitter.im/apk-studio/ideas.svg)](https://gitter.im/apk-studio/ideas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 >**A Cross-Platform IDE for Reverse-Engineering (Disassembling, Hacking & Rebuilding)  Android applications  - featuring a friendly UI and Code editor with Syntax-highlighting support**
 
@@ -14,7 +15,7 @@
 - Frameworks Support
 
 ### Download
- >[![Download](https://img.shields.io/github/release/surendrajat/apkstudio/all.svg?longCache=true&style=for-the-badge)](https://github.com/Surendrajat/apkstudio/releases)
+ >[![Download](https://img.shields.io/github/release/vaibhavpandeyvpz/apkstudio/all.svg?longCache=true&style=for-the-badge)](https://github.com/vaibhavpandeyvpz/apkstudio/releases)
 
 ### Requirements
 - **JDK >= 8**
@@ -33,9 +34,9 @@
     >- Windows: [adb driver](https://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378)
 
 ### Links
-- [Building (Command line)](https://github.com/Surendrajat/ApkStudio/wiki/Building#building-linux)
-- [Building (Qt Creator)](https://github.com/Surendrajat/ApkStudio/wiki/Building#building-with-qt-creator)
-- [Bug Reporting](https://github.com/surendrajat/apkstudio/issues)
+- [Building (Command line)](https://github.com/vaibhavpandeyvpz/apkstudio/wiki/Building#building-linux)
+- [Building (Qt Creator)](https://github.com/vaibhavpandeyvpz/apkstudio/wiki/Building#building-with-qt-creator)
+- [Bug Reporting](https://github.com/vaibhavpandeyvpz/apkstudio/issues)
 - [Contributors](https://github.com/Surendrajat/ApkStudio/graphs/contributors)
 - [Special Thanks](https://github.com/Surendrajat/ApkStudio/wiki/SpecialThanks)
 - [XDA Thread](https://forum.xda-developers.com/showthread.php?t=3761033)
