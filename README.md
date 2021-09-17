@@ -1,5 +1,8 @@
-![#aa0000](http://via.placeholder.com/600x50/aa0000/ffffff?text=This%20fork%20is%20outdated!!!%20)
-[![#aa0000](http://via.placeholder.com/600x50/00aa00/ffffff?text=Click%20me%20to%20get%20latest%20APK%20Studio)](https://github.com/vaibhavpandeyvpz/apkstudio)
+# Notice
+**This fork is outdated. It is recommened that you use [APKLab](https://github.com/APKLab/APKLab) instead as it has more features and being based on VS Code provides full IDE support.**
+
+---
+
 # APK Studio [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9709de5012824c36b54fda9c2c6390bf)](https://app.codacy.com/app/Surendrajat/apkstudio?utm_source=github.com&utm_medium=referral&utm_content=Surendrajat/apkstudio&utm_campaign=badger) [![Build Status(Linux)](https://travis-ci.org/Surendrajat/ApkStudio.svg)](https://travis-ci.org/Surendrajat/ApkStudio) [![Build status(Windows)](https://ci.appveyor.com/api/projects/status/mnr254lm0mlshmfb?svg=true)](https://ci.appveyor.com/project/Surendrajat/apkstudio) [![Join the chat at https://gitter.im/apk-studio/ideas](https://badges.gitter.im/apk-studio/ideas.svg)](https://gitter.im/apk-studio/ideas?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 >**A Cross-Platform IDE for Reverse-Engineering (Disassembling, Hacking & Rebuilding)  Android applications  - featuring a friendly UI and Code editor with Syntax-highlighting support**
 
