@@ -1,5 +1,5 @@
 # Notice
-**This fork is outdated. It is recommened that you use [APKLab](https://github.com/APKLab/APKLab) instead as it has more features and being based on VS Code provides full IDE support.**
+**This fork is outdated. It is recommended that you use [APKLab](https://github.com/APKLab/APKLab) instead as it has more features and being based on VS Code provides full IDE support.**
 
 ---
 
